@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/AstralTurtle/hackrpi-2025-frontend.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/AstralTurtle/hackrpi-2025-backend.git
